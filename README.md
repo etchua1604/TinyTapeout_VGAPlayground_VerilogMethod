@@ -3,6 +3,7 @@
 # Tiny Tapeout Verilog Project Using VGAPlayground Matrix template
 
 - [Read the documentation for project](docs/info.md)
+- https://vga-playground.com/?repo=https://github.com/etchua1604/TinyTapeout_VGAPlayground_VerilogMethod
 
 ## What is Tiny Tapeout?
 
